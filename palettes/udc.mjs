@@ -11,10 +11,11 @@ export default {
   fg: "#78c0d8",
   fg_muted: "#58a0b8",
   fg_subtle: "#408090",
-  fg_faint: "#2c6070",
+  fg_faint: "#3d859b",
   fg_ghost: "#1c4050",
 
   cursor: "#30c8e0",
+  accent: "#40e060",
 
   comment: "#2c6070",
   keyword: "#40e060",
@@ -27,21 +28,21 @@ export default {
   decorator: "#38b8c8",
   variable: "#78c0d8",
   property: "#4888c0",
-  namespace: "#408090",
+  namespace: "#418292",
   tag: "#40e060",
 
-  error: "#d83838",
+  error: "#da4141",
   warning: "#a88830",
   info: "#30c0d8",
   hint: "#4888c0",
 
   git_add: "#30c0d8",
   git_change: "#40e060",
-  git_delete: "#d83838",
+  git_delete: "#da4141",
   git_untracked: "#4888c0",
 
   black: "#1c2838",
-  red: "#d83838",
+  red: "#da4141",
   green: "#40e060",
   yellow: "#50d890",
   blue: "#4888c0",
