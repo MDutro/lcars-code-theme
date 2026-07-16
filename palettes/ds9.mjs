@@ -11,10 +11,11 @@ export default {
   fg: "#acc2be",
   fg_muted: "#88aaa4",
   fg_subtle: "#688880",
-  fg_faint: "#486860",
+  fg_faint: "#5b8479",
   fg_ghost: "#2e4440",
 
   cursor: "#3cc8b8",
+  accent: "#3cc8b8",
 
   comment: "#486860",
   keyword: "#3cc8b8",

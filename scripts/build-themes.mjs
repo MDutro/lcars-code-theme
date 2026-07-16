@@ -62,7 +62,7 @@ function buildColors(p) {
     "editorLightBulbAutoFix.foreground": p.info,
 
     "editorIndentGuide.background1": p.border,
-    "editorIndentGuide.activeBackground1": p.keyword,
+    "editorIndentGuide.activeBackground1": p.accent,
     "editorRuler.foreground": p.border,
     "editorWhitespace.foreground": p.surface,
     "editorGutter.background": p.bg,
@@ -194,7 +194,7 @@ function buildColors(p) {
     "dropdown.border": p.border,
     "dropdown.listBackground": p.bg_muted,
 
-    "button.background": p.keyword,
+    "button.background": p.accent,
     "button.foreground": p.bg,
     "button.hoverBackground": p.br_yellow,
     "button.secondaryBackground": p.surface,
@@ -209,7 +209,7 @@ function buildColors(p) {
     "scrollbarSlider.hoverBackground": alpha(p.overlay, "88"),
     "scrollbarSlider.activeBackground": alpha(p.overlay, "aa"),
 
-    "progressBar.background": p.keyword,
+    "progressBar.background": p.accent,
 
     "notifications.background": p.bg_soft,
     "notifications.foreground": p.fg,
