@@ -2,7 +2,7 @@
   "name": "lcars-code-theme",
   "displayName": "LCARS",
   "description": "Star Trek LCARS color themes for VS Code, in three screen-accurate variants: TNG, DS9, and the film era.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "MDutro",
   "license": "MIT",
   "icon": "icon.png",
