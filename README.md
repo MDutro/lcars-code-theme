@@ -2,7 +2,9 @@
 
 Full VS Code color themes inspired by the computer interfaces of Star Trek. Three screen-accurate variants, ported from the palettes of [nvim-lcars](https://github.com/MDutro/nvim-lcars).
 
-These themes are intended to meet WCAG AA requirements for contrast (with the exception of code comments), while also being astigmastim-friendly. Too much contrast can cause the halation effect for people with significant astimatism on backlit LCD screens - this is also known as "starring" or "light bleed" and is often seen in lights at night for those of us with astigatism, even when corrected with prescription lenses.
+These themes are intended to meet WCAG AA requirements for contrast (with the exception of code comments), while also being tuned with astigmatism in mind. Very high contrast between text and a dark background can cause a halation effect for people with significant astigmatism on backlit LCD screens — sometimes called "starbursting" or light bleed, similar to what many of us with astigmatism see around lights at night, even when corrected with prescription lenses. Saturation seems to matter at least as much as contrast: highly saturated colors, especially in the blue/violet range, can produce a similar glow on LCD displays.
+
+Astigmatism varies a great deal from person to person — in axis, severity, and even between someone's own two eyes — so no single palette can be optimal for everyone. These themes aim to avoid well-known common triggers (pure black or white, extreme contrast, highly saturated primary colors) rather than claim to be a universal fix; the specific tuning here was refined against one person's astigmatism and may not generalize to yours.
 
 All of this means that these themes attempt to strike a balance between screen accuracy and contrast considerations to accommodate a wide range of visual impairments. Where necessary, and in the spirit of Star Trek, I have chosen to deviate from 100% screen accuracy where accessibility would benefit.
 
