@@ -15,10 +15,10 @@ export default {
   fg_ghost: "#1c4050",
 
   cursor: "#30c8e0",
-  accent: "#40e060",
+  accent: "#51c864",
 
   comment: "#2c6070",
-  keyword: "#40e060",
+  keyword: "#51c864",
   operator: "#78c0d8",
   string: "#30c0d8",
   number: "#50d890",
@@ -29,7 +29,7 @@ export default {
   variable: "#78c0d8",
   property: "#4888c0",
   namespace: "#418292",
-  tag: "#40e060",
+  tag: "#51c864",
 
   error: "#da4141",
   warning: "#a88830",
@@ -37,13 +37,13 @@ export default {
   hint: "#4888c0",
 
   git_add: "#30c0d8",
-  git_change: "#40e060",
+  git_change: "#51c864",
   git_delete: "#da4141",
   git_untracked: "#4888c0",
 
   black: "#1c2838",
   red: "#da4141",
-  green: "#40e060",
+  green: "#51c864",
   yellow: "#50d890",
   blue: "#4888c0",
   magenta: "#38b8c8",
@@ -51,7 +51,7 @@ export default {
   white: "#78c0d8",
   br_black: "#306078",
   br_red: "#e85858",
-  br_green: "#68f888",
+  br_green: "#79d888",
   br_yellow: "#80e8b0",
   br_blue: "#68a8e0",
   br_magenta: "#58c8d8",
